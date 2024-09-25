@@ -143,7 +143,7 @@ Export file was written to reduce import complexity.
 
 ## Demo
 
-![Screen Record] (https://github.com/user-attachments/assets/9c7d5b9b-c9fc-4662-8590-8dc6cadefd78)
+https://github.com/user-attachments/assets/9c7d5b9b-c9fc-4662-8590-8dc6cadefd78
 
 ## Support
 
