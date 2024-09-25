@@ -141,15 +141,9 @@ Export file was written to reduce import complexity.
     <img src="./assets/screenshots/author_detail.png" height=400>
 </div>
 
-
-![Screen Record](https://github.com/user-attachments/assets/9c7d5b9b-c9fc-4662-8590-8dc6cadefd78)
-
-
 ## Demo
 
-### Video
-
-Watch the demo video below to see the app in action:
+![Screen Record] (https://github.com/user-attachments/assets/9c7d5b9b-c9fc-4662-8590-8dc6cadefd78)
 
 ## Support
 
