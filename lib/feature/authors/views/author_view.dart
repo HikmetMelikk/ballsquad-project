@@ -52,9 +52,20 @@ final class _AuthorsViewState extends State<AuthorsView> {
                     return Column(
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
-                        const Icon(Icons.emoji_people_outlined, size: 50),
+                        SizedBox(
+                          height: 200,
+                          width: 200,
+                          child: Image.asset(
+                            fit: BoxFit.cover,
+                            'assets/gif/author_homepage.gif',
+                          ),
+                        ),
                         const SizedBox(width: 10),
-                        Text(AppConstants.initialPageMessage),
+                        Text(
+                          textAlign: TextAlign.center,
+                          AppConstants.initialPageMessage,
+                          style: Theme.of(context).textTheme.displayMedium,
+                        ),
                       ],
                     );
                   } else if (state is AuthorsLoading) {
