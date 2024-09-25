@@ -135,9 +135,19 @@ Export file was written to reduce import complexity.
 
 ## Screenshots
 
+<div style="display: flex; gap: 10px;" >
+    <img src="../ballsquad-project/assets/screenshots/home_page.png" height=400>
+    <img src="../ballsquad-project/assets/screenshots/search_result.png" height=400>
+    <img src="../ballsquad-project/assets/screenshots/author_detail.png" height=400>
+</div>
+
 ## Demo
 
-Click on the link to watch the screen video.
+### Video
+
+Watch the demo video below to see the app in action:
+
+[![Watch the video](../ballsquad-project/assets/screenshots/screen_record.mp4)]
 
 ## Support
 
